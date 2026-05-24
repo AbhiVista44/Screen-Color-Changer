@@ -37,13 +37,13 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/background-color-changer.git
+https://github.com/AbhiVista44/Screen-Color-Changer.git
 ```
 
 ### 2️⃣ Navigate to the project folder
 
 ```bash
-cd background-color-changer
+cd "Screen Color Changer"
 ```
 
 ### 3️⃣ Install dependencies
@@ -100,12 +100,8 @@ If you'd like to improve this project:
 
 ---
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Your Name
+Made with ❤️ by Abhishek Wakchaure!
